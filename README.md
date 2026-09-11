@@ -6,6 +6,10 @@ Rigmetry Companion is required to connect the Rigmetry Android app to a Windows 
 
 On your **Windows PC**, open the [latest release](https://github.com/wlsxhslr892-blip/rigmetry-companion/releases/latest) and download **Rigmetry-Companion-Windows.zip**. The Windows ZIP is not an Android app.
 
+[Download Rigmetry-Companion-Windows.zip](https://github.com/wlsxhslr892-blip/rigmetry-companion/releases/latest/download/Rigmetry-Companion-Windows.zip)
+
+Choose **Rigmetry-Companion-Windows.zip**, not **Source code (zip)** or **Source code (tar.gz)**. GitHub automatically adds those repository snapshots; they contain this repository's documentation, not the Windows program. The `.sha256.txt` file is for checking the Windows ZIP, not an installer.
+
 ## Quick start
 
 1. Download **Rigmetry-Companion-Windows.zip**.
